@@ -7,7 +7,7 @@ local DragonLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com
 
 ## Create Window
 ```lua
-local Window = Library:Create("Hub Name","Game Name")
+local Window = DragonLibrary:Create("Hub Name","Game Name")
 ```
 
 ## Create Tab
