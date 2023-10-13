@@ -2,7 +2,7 @@
 
 ## Getting Loadstring
 ```lua
-local DragonLibrary loadstring(game:HttpGet("https://raw.githubusercontent.com/Ejddjdidjdnfjrirfj/UI-Libraries-NewLibs/main/New%20Libs/Obfucaste/BY%20DRAGON%20HUB"))()
+local DragonLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ejddjdidjdnfjrirfj/UI-Libraries-NewLibs/main/New%20Libs/Obfucaste/BY%20DRAGON%20HUB"))()
 ```
 
 ## Create Window
